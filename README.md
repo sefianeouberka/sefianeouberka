@@ -73,17 +73,37 @@
 
 ---
 
-### 🏗️ Featured Architecture & Engineering Focus
+## ⚙️ Core Engineering Specialties
 
-| Domain | Focus Areas & Capabilities |
-| :--- | :--- |
-| **🧠 RAG & GenAI Systems** | Designing advanced retrieval pipelines, semantic search, chunking strategies, and context-aware LLM generation systems. |
-| **⚡ High-Performance APIs** | Building robust, asynchronous backend services using **FastAPI** and enterprise-grade architecture with **Java**. |
-| **🌐 Full-Stack Integration** | Connecting intelligent backend inference pipelines with seamless, interactive user-facing interfaces. |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/GenAI_%26_RAG-005571?style=for-the-badge&logo=openai&logoColor=white" /><br/><br/>
+      <b>RAG & LLM Architectures</b>
+      <hr/>
+      <p align="left">Designing high-precision semantic retrieval pipelines, advanced vector chunking strategies, and context-aware LLM orchestration.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Backends-3776AB?style=for-the-badge&logo=fastapi&logoColor=white" /><br/><br/>
+      <b>High-Performance APIs</b>
+      <hr/>
+      <p align="left">Building asynchronous microservices with <b>FastAPI</b> and scalable enterprise backend architecture utilizing <b>Java</b>.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Full_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
+      <b>Full-Stack Integration</b>
+      <hr/>
+      <p align="left">Connecting intelligent backend inference systems into intuitive, high-speed reactive UI web platforms.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats & Metrics
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sefianeouberka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
