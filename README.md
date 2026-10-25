@@ -2,28 +2,31 @@
 
 # Hi there, I'm Sefiane Ouberka 👋
 ### 🚀 AI Full-Stack Engineer & Data Systems Architect
-*Bridging Mathematical Rigor, Advanced RAG Systems, and Scalable Full-Stack AI Solutions*
+<b>Bridging Mathematical Rigor, Advanced RAG Systems, and Scalable Full-Stack AI Solutions</b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
 
 </div>
 
 ---
 
 ### 💡 About Me
-* 🎯 **Specialization:** Building end-to-end AI applications, specializing in **Retrieval-Augmented Generation (RAG) architectures**, vector databases, and scalable backend pipelines.
-* 📐 **Foundational Edge:** Backed by an **Applied Mathematics** background, focusing on the analytical and mathematical underpinnings of machine learning models rather than surface-level implementations.
-* 🛠️ **Core Tech Stack:**
+* **Specialization:** Building end-to-end AI applications, specializing in **Retrieval-Augmented Generation (RAG) architectures**, vector databases, and scalable backend pipelines.
+* **Foundational Edge:** Backed by an **Applied Mathematics** background, focusing on the analytical and mathematical underpinnings of machine learning models rather than surface-level implementations.
+* **Core Tech Stack:**
   * **AI & Backend:** Python, FastAPI, Java, C, LangChain / LlamaIndex, Vector Databases.
-  * **Frontend & Full-Stack:** JavaScript / React, HTML5/CSS3, Streamlit, Responsive UI/UX integration.
+  * **Frontend & Full-Stack:** JavaScript, React, HTML5 / CSS3, Streamlit, Responsive UI/UX integration.
   * **Systems & Tools:** Docker, Git, Linux, LaTeX (for rigorous technical documentation).
 
 ---
@@ -49,4 +52,4 @@
 ---
 
 ### ⚡ Engineering Philosophy
-> *"An intelligent model is only as powerful as the scalable architecture and rigorous mathematical pipeline supporting it."*
+> **"An intelligent model is only as powerful as the scalable architecture and rigorous mathematical pipeline supporting it."**
