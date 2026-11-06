@@ -105,11 +105,19 @@
 
 ## 📊 GitHub Stats & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefianeouberka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefianeouberka&layout=compact&theme=radical&hide_border=true&exclude_langs=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sefianeouberka&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=28&custom_title=Sefiane%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefianeouberka&layout=compact&theme=radical&hide_border=true&exclude_langs=Jupyter%20Notebook,HTML,CSS&langs_count=7" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sefianeouberka&theme=radical&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
