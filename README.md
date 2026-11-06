@@ -108,25 +108,16 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/sefianeouberka">
-    <img src="https://img.shields.io/badge/📊_GitHub_Stats-Active-0e1117?style=for-the-badge&logo=github&logoColor=white&color=ff4500" alt="GitHub Stats">
+  <a href="https://github.com/sefianeouberka?tab=repositories">
+    <img src="https://img.shields.io/badge/📊_Total_Commits-Active-0e1117?style=for-the-badge&logo=github&logoColor=white&color=ff4500" alt="Stats">
   </a>
   <a href="https://github.com/sefianeouberka?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐_Top_Languages-Python_%7C_Java_%7C_C-0e1117?style=for-the-badge&logo=codeforces&logoColor=white&color=005571" alt="Top Languages">
+    <img src="https://img.shields.io/badge/⭐_Core_Languages-Python_%7C_Java_%7C_C-0e1117?style=for-the-badge&logo=codeforces&logoColor=white&color=005571" alt="Languages">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/🏆_GitHub_Trophies-Unlocked-0e1117?style=for-the-badge&logo=trophy&logoColor=white&color=f39c12" alt="GitHub Trophies">
+    <img src="https://img.shields.io/badge/🏆_Profile_Trophies-Unlocked-0e1117?style=for-the-badge&logo=trophy&logoColor=white&color=f39c12" alt="Trophies">
   </a>
 </p>
-
-<br/>
-
-<!-- بطاقات الإحصائيات المباشرة عبر خدمة بديلة ومستقرة -->
-<img src="https://github-readme-stats.vercel.app/api?username=sefianeouberka&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Sefiane's GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefianeouberka&layout=compact&theme=radical&hide_border=true&exclude_langs=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
 
 </div>
 
